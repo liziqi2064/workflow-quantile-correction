@@ -9,7 +9,7 @@ Authors: Ziqi Li, Mengyang Wang, Tianqi Zhou, **Jiarui Wang**. Jiarui Wang is fo
 ## Start here
 
 1. Open the [fixed review release](https://github.com/liziqi2064/workflow-quantile-correction/releases/tag/pc-v1.0.0).
-2. Download **pc_reproduction_v1.0.0.zip** and **SHA256SUMS.txt**. Extract the ZIP.
+2. Download **pc_reproduction_v1.0.0.zip** and **SHA256SUMS_pc-v1.0.0.txt**. Extract the ZIP.
 3. In its `pc_reproduction` folder, install the pinned requirements and run:
 
 ```sh
@@ -32,9 +32,9 @@ Read [REPRODUCING.md](REPRODUCING.md) for inputs, expected values, result-to-fil
 |---|---|---|
 | `pc_reproduction_v1.0.0.zip` | Current correction code, prepared matrices, saved models, forecasts, frozen settings, DMQ source, diagnostic and calibration code | Recompute current results; optional saved-model checks and correction training |
 | `historical_research_v1.0.0.zip` | Upstream scientific implementation, source manifests, derived task records, earlier experiments and technical appendices | Inspect historical method construction and comparisons; not a tested one-command raw-data retrain |
-| `online_supporting_information.pdf` | Current 16-page supplement, S1–S7, Tables S1–S10, Figure S1 and its references | Read detailed methods, comparisons, exclusions and interpretation |
-| `supporting_sources_v1.0.0.zip` | Editable supplement sources and figure | Inspect or compile the supplement |
-| `SHA256SUMS.txt` | Exact hashes and byte sizes of the research assets | Verify download integrity |
+| `online_supporting_information_20261116.pdf` | Current 16-page supplement, S1–S7, Tables S1–S10, Figure S1 and its references | Read detailed methods, comparisons, exclusions and interpretation |
+| `supporting_sources_pc-v1.0.0.zip` | Editable supplement sources and figure | Inspect or compile the supplement |
+| `SHA256SUMS_pc-v1.0.0.txt` | Exact hashes and byte sizes of the research assets | Verify download integrity |
 
 The clean 12-page main manuscript, marked manuscript, response, cover letter, author details and unsigned author-change forms are supplied separately for the journal submission. Private editorial correspondence and personal review notes are excluded from the public research deposit.
 
