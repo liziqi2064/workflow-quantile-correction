@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and the fixed research-material release. This revision is not yet an accepted journal publication."
+title: "Conditional quantile correction for workflow completion quotations: research materials"
+type: software
+version: "pc-v1.0.0"
+date-released: "2026-11-16"
+repository-code: "https://github.com/liziqi2064/workflow-quantile-correction"
+url: "https://github.com/liziqi2064/workflow-quantile-correction/releases/tag/pc-v1.0.0"
+authors:
+  - family-names: Li
+    given-names: Ziqi
+    orcid: "https://orcid.org/0009-0003-8689-4681"
+  - family-names: Wang
+    given-names: Mengyang
+  - family-names: Zhou
+    given-names: Tianqi
+  - family-names: Wang
+    given-names: Jiarui
+  - family-names: Zhang
+    given-names: Chen
