@@ -29,10 +29,10 @@ Frozen metrics: 14 policies per window, 164,136 quantile forecast values and 134
 
 | Paper item | Inputs / implementation | Verification or generation |
 |---|---|---|
-| Main Table 3 and S7 common comparison | `materials/analysis/prepared`, `materials/analysis/results`, `materials/evidence/common_predictions.csv.gz` | `checks/verify_recorded.py`; `round30_table_render/check_tables.py` |
+| Main Table 3 common comparison; Table S7 cohort counts | `materials/analysis/prepared`, `materials/analysis/results`, `materials/evidence/common_predictions.csv.gz` | `checks/verify_recorded.py`; `round30_table_render/check_tables.py` |
 | Mean loss, coverage, individual improvements and subgroup 81.18% | `round34_frozen_metrics/inputs` | `round34_frozen_metrics/check.py`; `round35_loss_distribution/check.py` |
-| S6 decision diagnostics | `round28_decision_diagnostics`, `round28_feature_dictionary` | included diagnostic entries and dictionary |
-| S7 exploratory 90% calibration, Tables S9–S10 | `round37_coverage_calibration/inputs`, fixed `analysis_plan.md` and all `outputs` | `round37_coverage_calibration/reproduce.py` |
+| S6 decision diagnostics, Tables S8–S9 | `round28_decision_diagnostics`, `round28_feature_dictionary` | included diagnostic entries and dictionary |
+| S7 exploratory 90% calibration, Table S10 | `round37_coverage_calibration/inputs`, fixed `analysis_plan.md` and all `outputs` | `round37_coverage_calibration/reproduce.py` |
 | Earlier component and external comparisons, Figure S1 | `materials/historical`, `evidence/earlier_external`, optional historical archive | `materials/historical/verify_results.py`; `checks/verify_historical_alternatives.py` |
 | DMQ transition identity | `materials/analysis/results/dmq_fixture.json` | `python materials/analysis/check_dmq_fixture.py` |
 
