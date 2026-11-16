@@ -4,7 +4,7 @@ Research materials accompanying manuscript **2024659**, revised for the **Practi
 
 **Review version: [pc-v1.0.0](https://github.com/liziqi2064/workflow-quantile-correction/releases/tag/pc-v1.0.0).** The release assets contain code, prepared real-data matrices, saved predictions, comparison settings, the latest supplementary information and the historical implementation archive. No GitHub account is needed to download them. This is an author-prepared revision, not an accepted or peer-reviewed publication.
 
-Authors: Ziqi Li, Mengyang Wang, Tianqi Zhou, **Jiarui Wang**, Chen Zhang. Jiarui Wang is fourth in the revised author list. Journal processing of the requested author-list change is separate from this public research deposit.
+Authors: Ziqi Li, Mengyang Wang, Tianqi Zhou, **Jiarui Wang**. Jiarui Wang is fourth in the revised author list. Journal processing of the requested author-list change is separate from this public research deposit.
 
 ## Start here
 
